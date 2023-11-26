@@ -1,0 +1,49 @@
+
+body {
+  font: 18px/1.5 Roboto, sans-serif;
+  background-color: #08020d;
+  color: #cacaca;
+  margin: 0;
+}
+
+h1 {
+  font-size: 60px;
+  line-height: 90px;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-block: 0;
+}
+h2 {
+  font-size: 38px;
+  line-height: 57px;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin: 0;
+}
+
+.btn {
+  padding: 20px 30px;
+  border-radius: 5px;
+  text-transform: uppercase;
+  border-color: transparent;
+}
+
+.bright-text-color {
+  color: #FFFFFF;
+}
+
+
+@media (max-width: 770px) {
+  h1 {
+    font-size: 30px;
+    line-height: 45px;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  h2 {
+    font-size: 18px;
+    line-height: 27px;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+}
