@@ -207,8 +207,7 @@ h2 {
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding-top: 200px;
-  padding-bottom: 200px;
+  padding: 200px 0 200px 1rem;
   color: #FFFFFF;
 }
 
@@ -661,6 +660,7 @@ footer {
 
 .bg-gradient {
   background: linear-gradient(89.75deg, #5328a1 32.83%, #95390c 81.56%);
+  padding-left: 1rem;
 }
 
 .footer-top-part {
@@ -730,7 +730,7 @@ a {
 #page-popular-track {
   display: flex;
   justify-content: center;
-  padding-top: 100px;
+  padding: 100px 0 0 1rem;
 }
 
 h3 {
@@ -796,7 +796,7 @@ h3 {
   }
 }
 #page-discography {
-  padding-top: 100px;
+  padding: 100px 0 0 1rem;
   display: flex;
   justify-content: center;
 }
@@ -840,7 +840,7 @@ h3 {
 #page-similar {
   display: flex;
   justify-content: center;
-  padding-top: 100px;
+  padding-top: 100px 0 0 1rem;
   margin-bottom: 100px;
 }
 
