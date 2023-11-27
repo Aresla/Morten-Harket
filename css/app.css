@@ -41,7 +41,7 @@ header {
 }
 
 .search-form {
-  width: 248px;
+  width: 180px;
   height: 25px;
   padding: 0;
   margin-right: 0;
@@ -806,7 +806,7 @@ h3 {
   flex-direction: row;
   flex-wrap: wrap;
   margin-top: 48px;
-  gap: 50px;
+  gap: 40px;
   row-gap: 25px;
 }
 
@@ -847,7 +847,7 @@ h3 {
 .similar-list {
   display: flex;
   flex-direction: row;
-  gap: 50px;
+  gap: 40px;
   row-gap: 25px;
   margin-top: 48px;
   flex-wrap: wrap;
